@@ -1,6 +1,8 @@
-# spam-mail-prediction-ml-project-1
-Spam Email Detection
+
+# Spam Email Detection
 This is a GitHub repository for a spam email detection project. The project aims to detect whether an email is spam or not using machine learning techniques. The code is implemented in Python and uses popular libraries like NumPy, Pandas, NLTK, Matplotlib, Seaborn, and Scikit-learn.
+
+### Live Demo: [Click Here](https://email-spam-filtering.pages.dev/)
 
 Data
 The dataset used in this project is loaded from a CSV file named "Spam Email Detection - spam.csv". The dataset contains email messages labeled as spam (Type 1) or not spam (Type 0).
